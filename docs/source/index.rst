@@ -14,7 +14,7 @@ Contents
    :caption: Sections
 
    source/Scope
-   source/user requirements
+   source/requirements
    source/implementation
    source/usage
    source/api
