@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
-===================================
+UniSoc Documentation
+===================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Overview
+--------
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+UniSoc is a university society management application designed to improve student engagement and simplify how societies are discovered, joined, and managed. The platform provides a centralised system for students to explore societies, track events, and communicate with society administrators.
 
-.. note::
-
-   This project is under active development.
+This documentation outlines the problem specification, system design, implementation decisions, and testing strategies used in developing UniSoc.
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   scope
+   user requirement
+   implementation
+   testing
