@@ -1,31 +1,45 @@
-Elements of Implementation
-==========================
+Implementation
+==============
 
-The UniSoc project has been implemented using the following main technologies and design decisions:
+Overview
+--------
 
-Technologies Used
------------------
-- **Frontend:** HTML, CSS, JavaScript (React for dynamic components)
-- **Backend:** Python (Django framework)
-- **Database:** PostgreSQL
-- **Version Control:** Git & GitHub
+This chapter outlines the technologies and tools used to implement the UniSoc application.
 
-Architecture Overview
----------------------
-The project follows a **Model-View-Controller (MVC)** architecture:
-- **Models:** Define the structure of database tables for users, societies, and events.
-- **Views:** Render frontend pages and handle user interaction.
-- **Controllers:** Handle backend logic, including authentication, event management, and notifications.
+Frontend
+--------
 
-Key Features Implemented
-------------------------
-- User registration, login, and profile management
-- Society discovery and membership management
-- Event posting, calendar display, and notifications
-- Admin dashboard for managing societies and events
+Flutter was chosen for the frontend due to:
+- Cross-platform development support
+- High performance
+- Consistent UI design
+- Team familiarity
 
-Future Enhancements
--------------------
-- Mobile app integration
-- Advanced notification system
-- Analytics dashboard for admins
+Backend
+-------
+
+Django was selected because:
+- Built-in authentication features
+- Strong support for REST APIs
+- Efficient database integration
+- Team experience with Python
+
+Database
+--------
+
+PostgreSQL was chosen for:
+- Reliability
+- Strong relational data handling
+- Integration with Django ORM
+
+Development Approach
+--------------------
+
+- Prototype testing was conducted to validate technology choices
+- APIs were tested to ensure communication between frontend and backend
+- Iterative development allowed continuous improvement
+
+Conclusion
+----------
+
+The selected technologies provided a robust and efficient foundation for building the UniSoc application.
