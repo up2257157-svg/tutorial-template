@@ -1,34 +1,26 @@
 Usage
 =====
 
-.. _installation:
+User Accounts
+-------------
+- **Sign Up / Login**: Users can create an account with email & password, or log in if already registered.
+- **Profile Management**: Update your profile info and notification preferences at any time.
 
-Installation
-------------
+Society Management
+-----------------
+- **Browse Societies**: Use the search bar or filters to find societies by name, type, or category.
+- **Join/Leave Societies**: Click “Join” to become a member or “Leave” to unsubscribe from notifications and society events.
+- **View Events**: See upcoming events in the calendar for the societies you’ve joined.
+- **RSVP**: Indicate attendance to events; event availability updates automatically.
 
-To use Lumache, first install it using pip:
+Notifications
+-------------
+- Users can opt in/out of notifications for each society.
+- Receive timely reminders about events via email or in-app notifications.
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+Admin Features
+--------------
+- **Create/Edit Events**: Admins can add or modify events for their society.
+- **Track Attendance**: See live attendance numbers and event capacity.
+- **Manage Society Info**: Update society details and admin profiles as needed.
 
