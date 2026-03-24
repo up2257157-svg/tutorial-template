@@ -15,6 +15,7 @@ Contents
    :maxdepth: 2
 
    scope
-   user requirement
+   requirement
    implementation
-   testing
+   usage
+   api
