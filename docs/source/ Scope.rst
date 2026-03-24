@@ -1,4 +1,4 @@
-SCOPE
+Scope
 ----
 ----
 
