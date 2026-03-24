@@ -8,7 +8,6 @@ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript (React for dynamic components)
 - **Backend:** Python (Django framework)
 - **Database:** PostgreSQL
-- **Deployment:** Heroku / AWS (depending on environment)
 - **Version Control:** Git & GitHub
 
 Architecture Overview
