@@ -13,9 +13,9 @@ Contents
    :maxdepth: 2
    :caption: Sections
 
-   scope
-   requirements
-   implementation
-   testing
-   usage
-   api
+   source/scope
+   source/requirements
+   source/implementation
+   source/testing
+   source/usage
+   source/api
