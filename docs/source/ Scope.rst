@@ -1,3 +1,7 @@
+SCOPE
+----
+----
+
 UniSoc is a mobile application designed to improve student engagement with university societies at University of Portsmouth. The app centralises society discovery, event management, and member communication. It aims to solve the following problems:
 
 Fragmented information across social media platforms.
