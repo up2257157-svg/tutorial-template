@@ -18,9 +18,14 @@ Notifications
 - Users can opt in/out of notifications for each society.
 - Receive timely reminders about events via email or in-app notifications.
 
+Messaging
+-----------
+- Users can message other members of society through the app
+
 Admin Features
 --------------
 - **Create/Edit Events**: Admins can add or modify events for their society.
 - **Track Attendance**: See live attendance numbers and event capacity.
 - **Manage Society Info**: Update society details and admin profiles as needed.
+
 
